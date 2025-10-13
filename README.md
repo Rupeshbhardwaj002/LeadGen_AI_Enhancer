@@ -42,7 +42,7 @@ Follow these steps to run the project locally 👇
 #'''bash
 git clone https://github.com/Rupeshbhardwaj002/LeadGen_AI_Enhancer
 
-2️⃣ Create and activate a virtual environment-> 
+### 2️⃣ Create and activate a virtual environment-> 
 Windows: ->
 bash
 python -m venv venv
@@ -54,7 +54,7 @@ Copy code
 python3 -m venv venv
 source venv/bin/activate
 
-3️⃣ Install dependencies: ->
+### 3️⃣ Install dependencies: ->
 bash
 Copy code
 pip install -r requirements.txt
