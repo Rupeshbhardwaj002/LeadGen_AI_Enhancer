@@ -1,6 +1,6 @@
 # 🧠 Lead Scoring Web App (AI-Powered)
 
-This project is an **AI-based Lead Scoring System** built using **Streamlit** and **Logistic Regression**.  
+This tool is an **AI-based Lead Scoring System** built using **Streamlit** and **Logistic Regression**.  
 It predicts lead conversion likelihood (Lead Score) and provides **visual insights** using histograms and feature importance charts.
 
 ---
@@ -43,7 +43,7 @@ Follow these steps to run the project locally 👇
 git clone https://github.com/Rupeshbhardwaj002/LeadGen_AI_Enhancer
 
 ### 2️⃣ Create and activate a virtual environment-> 
-#### Windows: ->
+#### For Windows: ->
 
 '''bash
 
@@ -51,7 +51,7 @@ python -m venv venv
 
 venv\Scripts\activate
 
-#### Mac/Linux: ->
+#### For Mac/Linux: ->
 '''bash
 
 python3 -m venv venv
