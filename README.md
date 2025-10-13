@@ -59,7 +59,7 @@ python3 -m venv venv
 source venv/bin/activate
 
 ### 3️⃣ Install dependencies: ->
-'''Bash
+'''bash
 
 pip install -r requirements.txt
 
@@ -68,7 +68,7 @@ pip install -r requirements.txt
 
 Run the Streamlit server locally:
 
-bash
+'''bash
 
 streamlit run app.py
 
