@@ -43,34 +43,38 @@ Follow these steps to run the project locally 👇
 git clone https://github.com/Rupeshbhardwaj002/LeadGen_AI_Enhancer
 
 ### 2️⃣ Create and activate a virtual environment-> 
-Windows: ->
+#### Windows: ->
 
-bash
+'''bash
 
 python -m venv venv
 
 venv\Scripts\activate
 
-Mac/Linux: ->
-bash
-Copy code
+#### Mac/Linux: ->
+'''bash
+
 python3 -m venv venv
+
 source venv/bin/activate
 
 ### 3️⃣ Install dependencies: ->
-bash
-Copy code
+'''Bash
+
 pip install -r requirements.txt
 
 
-🧠 Run the App->
+## 🧠 Run the App->
+
 Run the Streamlit server locally:
 
 bash
+
 streamlit run app.py
+
 Once started, open the link shown in your terminal (typically http://localhost:8501) �
 
-🧮 Example Output: ->
+## 🧮 Example Output: ->
 After uploading your dataset:
 
 A Lead Score Table will appear
@@ -107,10 +111,10 @@ Customize theme, background, or logo
 
 Add model comparison (e.g., RandomForest, XGBoost)
 
-🧑‍💻 Author: ->
+## 🧑‍💻 Author: ->
 Rupesh Bhardwaj
 🎓 B.Tech in Computer Science (AI & ML Specialization)
 📍 Passionate about real-world ML solutions
 
-📜 License: ->
+## 📜 License: ->
 This project is released under the MIT License.
