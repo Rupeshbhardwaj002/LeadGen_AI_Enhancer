@@ -31,8 +31,6 @@ lead-scoring-app/
 └── sample_data/
 └── leads_sample.csv
 
-yaml
-Copy code
 
 ---
 
@@ -40,36 +38,36 @@ Copy code
 
 Follow these steps to run the project locally 👇
 
-### 1️⃣ Clone the repository
+### 1️⃣ Clone the repository ->
 #'''bash
 git clone https://github.com/Rupeshbhardwaj002/LeadGen_AI_Enhancer
 
-2️⃣ Create and activate a virtual environment
-Windows:
+2️⃣ Create and activate a virtual environment-> 
+Windows: ->
 bash
 python -m venv venv
 venv\Scripts\activate
 
-Mac/Linux:
+Mac/Linux: ->
 bash
 Copy code
 python3 -m venv venv
 source venv/bin/activate
 
-3️⃣ Install dependencies
+3️⃣ Install dependencies: ->
 bash
 Copy code
 pip install -r requirements.txt
 
 
-🧠 Run the App
+🧠 Run the App->
 Run the Streamlit server locally:
 
 bash
 streamlit run app.py
 Once started, open the link shown in your terminal (typically http://localhost:8501) �
 
-🧮 Example Output
+🧮 Example Output: ->
 After uploading your dataset:
 
 A Lead Score Table will appear
@@ -89,7 +87,7 @@ Machine Learning	Scikit-learn (Logistic Regression)
 Visualization	Matplotlib
 Data Handling	Pandas, NumPy
 
-Requirements->
+Requirements ->
 Dependencies listed in requirements.txt:
 
 streamlit
@@ -106,10 +104,10 @@ Customize theme, background, or logo
 
 Add model comparison (e.g., RandomForest, XGBoost)
 
-🧑‍💻 Author
+🧑‍💻 Author: ->
 Rupesh Bhardwaj
 🎓 B.Tech in Computer Science (AI & ML Specialization)
 📍 Passionate about real-world ML solutions
 
-📜 License
+📜 License: ->
 This project is released under the MIT License.
