@@ -44,8 +44,11 @@ git clone https://github.com/Rupeshbhardwaj002/LeadGen_AI_Enhancer
 
 ### 2️⃣ Create and activate a virtual environment-> 
 Windows: ->
+
 bash
+
 python -m venv venv
+
 venv\Scripts\activate
 
 Mac/Linux: ->
