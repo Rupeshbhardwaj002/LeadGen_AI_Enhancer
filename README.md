@@ -18,18 +18,7 @@ It predicts lead conversion likelihood (Lead Score) and provides **visual insigh
 
 ## 🧩 Project Structure
 
-lead-scoring-app/
-│
-├── app.py     # Streamlit frontend
-├── model.py   # ML model logic (feature extraction + scoring)
-├── requirements.txt    # Dependencies list
-├── README.md    # Documentation
-│
-├── assets/
-│ └── logo.png    # Optional app background/logo
-│
-└── sample_data/
-└── leads_sample.csv
+<img width="589" height="348" alt="image" src="https://github.com/user-attachments/assets/03252999-586f-4ab5-9244-10ddaf1c4ba6" />
 
 
 ---
