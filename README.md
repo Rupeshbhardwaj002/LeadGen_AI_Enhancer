@@ -1,14 +1,4 @@
 
-## 📖 Executive Overview
-
-In today's highly competitive market, sales and marketing teams often expend valuable resources pursuing low-probability prospects. **LeadGen AI Enhancer** bridges the gap between raw CRM data and actionable sales intelligence. 
-
-Built on a robust **Streamlit** frontend and powered by a **Logistic Regression** machine learning engine, this application automatically ingests lead datasets, processes complex categorical and numerical features, and outputs a highly interpretable **Lead Conversion Probability Score (0-100%)**. By prioritizing leads with the highest propensity to convert, organizations can significantly optimize their sales funnel, reduce customer acquisition costs (CAC), and boost overall revenue.
-
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/03252999-586f-4ab5-9244-10ddaf1c4ba6" alt="LeadGen AI Enhancer Banner" width="600" />
-
   <h1>🧠 LeadGen AI Enhancer</h1>
   <p><strong>An Enterprise-Grade, AI-Powered Lead Scoring & Analytics Platform</strong></p>
 
@@ -22,6 +12,18 @@ Built on a robust **Streamlit** frontend and powered by a **Logistic Regression*
 </div>
 
 ---
+
+## 📖 Executive Overview
+
+In today's highly competitive market, sales and marketing teams often expend valuable resources pursuing low-probability prospects. **LeadGen AI Enhancer** bridges the gap between raw CRM data and actionable sales intelligence. 
+
+Built on a robust **Streamlit** frontend and powered by a **Logistic Regression** machine learning engine, this application automatically ingests lead datasets, processes complex categorical and numerical features, and outputs a highly interpretable **Lead Conversion Probability Score (0-100%)**. By prioritizing leads with the highest propensity to convert, organizations can significantly optimize their sales funnel, reduce customer acquisition costs (CAC), and boost overall revenue.
+
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/03252999-586f-4ab5-9244-10ddaf1c4ba6" alt="LeadGen AI Enhancer Banner" width="600" />
+
+
 
 ---
 
